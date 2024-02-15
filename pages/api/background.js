@@ -3,24 +3,24 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Paier Collgege of Art, inc',
+                degree: 'Mobile Application Design',
+                detail: "Certificate in Mobile Application Design.",
+                year: '2023-2024'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                title: 'Housatonic Community College',
+                degree: 'Computer Science',
+                detail: "In progress.",
+                year: '2020-'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Fairchild Wheeler',
+                degree: 'Information Technology HS Degree',
+                detail: "Completed Information Technology ciriculum at FCW.",
+                year: '2016-2020'
             },
         ]
     },

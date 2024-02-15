@@ -1,17 +1,17 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Shayna Alli';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Computer Science Student`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Connecticut',
+  City: 'Bridgeport',
+  Age: '21',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'UX Design',
+    level: '55%',
   },
   {
     title: 'React Developer',
@@ -24,44 +24,27 @@ export const SKILLS = [
   {
     title: 'Backend Developer',
     level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
-  },
+  }
 ];
 
 export const TECH_STACK = [
   'ReactJS',
   'JavaScript',
   'NextJS',
-  'TypeScript',
   'NodeJS',
-  'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'shayna.alli.edu@gmail.com',
+  PHONE: '+1(203)123-4567',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/shaynaalli',
+  LINKEDIN: 'https://www.linkedin.com/in/shaynaalli/',
+  TWITTER: 'https://twitter.com/shaynaalli',
+  FACEBOOK: 'https://www.facebook.com/shaynaalli',
 };
